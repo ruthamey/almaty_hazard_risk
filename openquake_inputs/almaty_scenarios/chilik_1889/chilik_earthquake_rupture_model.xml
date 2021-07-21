@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+    <multiPlanesRupture>
+        <magnitude>8</magnitude>
+        <rake>180</rake>
+        <hypocenter lat="43.2279" lon="78.1699" depth="26.7675"/>
+        <planarSurface strike="94.9124" dip="90">
+            <topLeft lon="78.1284" lat="43.1866" depth="0"/>
+            <topRight lon="78.2819" lat="43.1807" depth="0"/>
+            <bottomLeft lon="78.1284" lat="43.1866" depth="20"/>
+            <bottomRight lon="78.2819" lat="43.1807" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="117.938" dip="90">
+            <topLeft lon="78.2819" lat="43.1807" depth="0"/>
+            <topRight lon="78.3727" lat="43.1481" depth="0"/>
+            <bottomLeft lon="78.2819" lat="43.1807" depth="20"/>
+            <bottomRight lon="78.3727" lat="43.1481" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="123.147" dip="90">
+            <topLeft lon="78.3727" lat="43.1481" depth="0"/>
+            <topRight lon="78.4194" lat="43.1273" depth="0"/>
+            <bottomLeft lon="78.3727" lat="43.1481" depth="20"/>
+            <bottomRight lon="78.4194" lat="43.1273" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="98.9802" dip="90">
+            <topLeft lon="78.4194" lat="43.1273" depth="0"/>
+            <topRight lon="78.5322" lat="43.1168" depth="0"/>
+            <bottomLeft lon="78.4194" lat="43.1273" depth="20"/>
+            <bottomRight lon="78.5322" lat="43.1168" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="234.4653" dip="40">
+            <topLeft lon="78.7939" lat="43.2555" depth="0"/>
+            <topRight lon="78.5295" lat="43.109" depth="0"/>
+            <bottomLeft lon="78.6165" lat="43.4266" depth="20"/>
+            <bottomRight lon="78.3519" lat="43.2797" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="254.5061" dip="40">
+            <topLeft lon="78.5295" lat="43.109" depth="0"/>
+            <topRight lon="78.441" lat="43.0889" depth="0"/>
+            <bottomLeft lon="78.4427" lat="43.3139" depth="20"/>
+            <bottomRight lon="78.3539" lat="43.2937" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="213.2385" dip="40">
+            <topLeft lon="78.441" lat="43.0889" depth="0"/>
+            <topRight lon="78.4079" lat="43.0493" depth="0"/>
+            <bottomLeft lon="78.1909" lat="43.2007" depth="20"/>
+            <bottomRight lon="78.158" lat="43.161" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="252.4948" dip="40">
+            <topLeft lon="78.4079" lat="43.0493" depth="0"/>
+            <topRight lon="78.3591" lat="43.0368" depth="0"/>
+            <bottomLeft lon="78.311" lat="43.2518" depth="20"/>
+            <bottomRight lon="78.2621" lat="43.2392" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="264.4626" dip="40">
+            <topLeft lon="78.3591" lat="43.0368" depth="0"/>
+            <topRight lon="78.281" lat="43.0294" depth="0"/>
+            <bottomLeft lon="78.3216" lat="43.2495" depth="20"/>
+            <bottomRight lon="78.2433" lat="43.2421" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="251.3339" dip="40">
+            <topLeft lon="78.281" lat="43.0294" depth="0"/>
+            <topRight lon="78.1065" lat="42.9813" depth="0"/>
+            <bottomLeft lon="78.1782" lat="43.2302" depth="20"/>
+            <bottomRight lon="78.0032" lat="43.182" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="102.9011" dip="90">
+            <topLeft lon="78.5136" lat="42.8782" depth="0"/>
+            <topRight lon="78.8118" lat="42.8343" depth="0"/>
+            <bottomLeft lon="78.5136" lat="42.8782" depth="20"/>
+            <bottomRight lon="78.8118" lat="42.8343" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="278.6984" dip="90">
+            <topLeft lon="78.5136" lat="42.8782" depth="0"/>
+            <topRight lon="78.4594" lat="42.8831" depth="0"/>
+            <bottomLeft lon="78.5136" lat="42.8782" depth="20"/>
+            <bottomRight lon="78.4594" lat="42.8831" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="296.4929" dip="90">
+            <topLeft lon="78.4594" lat="42.8831" depth="0"/>
+            <topRight lon="78.2645" lat="42.949" depth="0"/>
+            <bottomLeft lon="78.4594" lat="42.8831" depth="20"/>
+            <bottomRight lon="78.2645" lat="42.949" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="286.1036" dip="90">
+            <topLeft lon="78.2645" lat="42.949" depth="0"/>
+            <topRight lon="78.0917" lat="42.981" depth="0"/>
+            <bottomLeft lon="78.2645" lat="42.949" depth="20"/>
+            <bottomRight lon="78.0917" lat="42.981" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="276.4749" dip="90">
+            <topLeft lon="78.0917" lat="42.981" depth="0"/>
+            <topRight lon="77.6776" lat="43.028" depth="0"/>
+            <bottomLeft lon="78.0917" lat="42.981" depth="20"/>
+            <bottomRight lon="77.6776" lat="43.028" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="270.2848" dip="90">
+            <topLeft lon="77.6776" lat="43.028" depth="0"/>
+            <topRight lon="77.586" lat="43.0305" depth="0"/>
+            <bottomLeft lon="77.6776" lat="43.028" depth="20"/>
+            <bottomRight lon="77.586" lat="43.0305" depth="20"/>
+        </planarSurface>
+        <planarSurface strike="246.7891" dip="90">
+            <topLeft lon="77.586" lat="43.0305" depth="0"/>
+            <topRight lon="77.4881" lat="43.0022" depth="0"/>
+            <bottomLeft lon="77.586" lat="43.0305" depth="20"/>
+            <bottomRight lon="77.4881" lat="43.0022" depth="20"/>
+        </planarSurface>
+    </multiPlanesRupture>
+</nrml>
