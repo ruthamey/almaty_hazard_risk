@@ -1,9 +1,9 @@
-Building class,Vcomplete,Ccomplete,CK2complete,SPcomplete,NSPcomplete,Tcomplete,KPcomplete,Sum,N45complete,Nrfcomplete
-Reinforced concrete,279,53,197,413,,157,20,2464,543,802
-Confined masonry,272,48,191,430,,147,25,2465,527,825
-Reinforced masonry,761,175,547,1066,,417,101,6229,1360,1802
-Unreinforced masonry,7336,1790,5404,8267,,4477,1291,51437,9553,13319
-Wooden,53,12,39,67,,31,6,401,80,113
-Steel,90,27,75,119,,56,9,696,150,170
-Unknown/Insufficient information,62,12,42,74,,38,8,445,82,127
-Total,8417,1828,6062,10039,,4921,1236,61238,11898,16837
+Building class,Vcomplete,Ccomplete,CK2complete,SPcomplete,Tcomplete,KPcomplete,N45complete,Nrfcomplete,Sum
+Reinforced concrete,279,53,197,413,157,20,543,802,2464
+Confined masonry,272,48,191,430,147,25,527,825,2465
+Reinforced masonry,761,175,547,1066,417,101,1360,1802,6229
+Unreinforced masonry,7336,1790,5404,8267,4477,1291,9553,13319,51437
+Wooden,53,12,39,67,31,6,80,113,401
+Steel,90,27,75,119,56,9,150,170,696
+Unknown/Insufficient information,62,12,42,74,38,8,82,127,445
+Total,8417,1828,6062,10039,4921,1236,11898,16837,61238
