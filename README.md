@@ -4,7 +4,7 @@ This directory contains input files, scripts and results of scenario hazard and 
 
 Amey RMJ, Elliott J, Hussain E, Walker R, Pagani M, Silva V, Abdrakhmatov K, Watson C. 2021. Significant Seismic Risk Potential from Buried Faults Beneath Almaty City, Kazakhstan, revealed from high-resolution satellite DEMs. Earth and Space Science
 
-These scenarios were run with the OpenQuake Engine, version 3.8.1
+These scenarios were run with the OpenQuake Engine, version 3.8.1. Please note that the output files between later versions of OpenQuake changes significantly (number of header lines, column names, etc), so the scripts made available here will not work with later versions of OpenQuake.
 
 https://www.globalquakemodel.org/oq-get-started
 
